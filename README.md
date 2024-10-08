@@ -1,5 +1,3 @@
-![Cool GIF](https://github.com/Lakshyyaa/Lakshyyaa/blob/main/gitbanner.gif)
-
 <div align="center">
   <h1>Hey, I'm Lakshya</h1>
 </div>
