@@ -1,4 +1,4 @@
-![Cool GIF](https://github.com/Lakshyyaa/Lakshyyaa/blob/main/gitbanner.gif)
+![Cool GIF](https://github.com/Lakshyyaa/Lakshyyaa/blob/main/gitbannerr.gif)
 
 
 <div align="center">
