@@ -1,8 +1,7 @@
-  <div style="text-align: center; margin-bottom: 20px;">
-    <img src="YOUR_GIF_LINK_HERE" alt="Banner GIF" style="width: 100%; max-width: 800px; border-radius: 8px;">
-  </div>
-
-  <p>
+<div align="center">
+  <h1>Hey, I'm Lakshya Singh</h1>
+</div>
+  <p align="center">
     I love building and breaking apps that provide value to people. Whether it's a small feature or a full-scale system, the process of ideating, developing, and iterating is something I truly enjoy. I believe in creating software that makes a real difference.
   </p>
 
